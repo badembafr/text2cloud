@@ -3,7 +3,6 @@
 Application web de génération de nuages de mots-clés à partir de textes bruts.
 
 ## Démo en ligne
-
 [https://bademba.fr/text2cloud](https://bademba.fr/text2cloud)
 [https://github.com/badembafr/text2cloud](https://github.com/badembafr/text2cloud)
 
